@@ -1,0 +1,18 @@
+# Maven
+target/
+*.class
+
+# IDE
+.idea/
+*.iml
+.eclipse/
+.settings/
+.classpath
+.project
+
+# Reports (auto generated)
+reports/screenshots/
+
+# OS
+.DS_Store
+Thumbs.db
